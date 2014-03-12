@@ -3,7 +3,7 @@
 > Merge SVGs from a folder.
 
 ## Why?
-Because [Chris Coyer](http://shoptalkshow.com/episodes/103-louis-lazaris/#t=33:52) asked.
+Because [Chris Coyier](http://shoptalkshow.com/episodes/103-louis-lazaris/#t=33:52) asked.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
